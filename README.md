@@ -1,4 +1,4 @@
-![Header](static/github-header-image.png)
+![Header](github-header-image.png)
 
 <h4>
 I'm a Software Engineer passionate about AI security, adversarial machine learning, and large language models (LLMs). 
