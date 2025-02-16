@@ -1,8 +1,5 @@
 ![Header](static/github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Yasu</h1>
-<h2 align="center">Software Engineer (AI/ML) | Data Scientist</h2>
-
 <h4>
 I'm a Software Engineer passionate about AI security, adversarial machine learning, and large language models (LLMs). 
 I love working on cutting-edge AI research, developing secure and robust models, and contributing to open-source projects. 
@@ -37,7 +34,6 @@ I love working on cutting-edge AI research, developing secure and robust models,
     <img alt="Go" src="https://img.shields.io/badge/Go-black?logo=go&style=plastic" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?logo=typescript&style=plastic" />
     <img alt="React" src="https://img.shields.io/badge/React-black?logo=react&style=plastic" />
-    
     <img alt="Transformers" src="https://img.shields.io/badge/HuggingFace-black?logo=huggingface&style=plastic" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-black?logo=tensorflow&style=plastic" />
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=pytorch&style=plastic" />
